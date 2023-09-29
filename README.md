@@ -1,4 +1,4 @@
-                                                                      **Bike Sharing Data Analysis Project**
+**Bike Sharing Data Analysis Project**
                                                                     
 Project Overview
 This project focuses on the analysis of Q1 2019 data from a bike-sharing company, with the primary objective of understanding the differences between annual members and casual riders. The ultimate goal is to provide recommendations for converting casual riders into annual members.
