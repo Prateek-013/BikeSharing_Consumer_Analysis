@@ -1,5 +1,5 @@
                                                         -- Cleaning and Exploring Cyclist Data for the Q1 2019 --
-											--Objective: Finding the difference between casual and member riding behaviours --
+					--Objective: Finding the difference between casual and member riding behaviours --
 
 -- Looking at the Data
 
